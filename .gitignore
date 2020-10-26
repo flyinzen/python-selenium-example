@@ -1,0 +1,18 @@
+# IDE
+.idea
+.vscode
+
+# Cache
+.cache
+.pytest_cache
+
+# Logs
+debug.log
+reports
+report
+attachments
+bin/allure
+geckodriver.log
+
+# Venv
+.venv
